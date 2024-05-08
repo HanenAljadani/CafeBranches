@@ -1,0 +1,63 @@
+[
+  {
+     "branchID":1,
+     "location":"Jeddah",
+     "branchManager":"Ahmad Alghamdi",
+     "numberOfEmployees":7
+     
+  },
+  {
+    "branchID":2,
+    "location":"Jeddah",
+    "branchManager":"Salem Alharbi",
+    "numberOfEmployees":7
+  },
+  {
+    "branchID":3,
+     "location":"Makkah",
+     "branchManager":"Saeed Khaled",
+     "numberOfEmployees":6
+  },
+  {
+    "branchID":4,
+     "location":"Riyadh",
+     "branchManager":"Kareem Saad",
+     "numberOfEmployees":9
+  },
+  {
+    "branchID":5,
+     "location":"Riyadh",
+     "branchManager":"Mohammad Ahmad",
+     "numberOfEmployees":8
+  },
+  {
+    "branchID":6,
+     "location":"Jeddah",
+     "branchManager":"Tamim Majed",
+     "numberOfEmployees":6
+  },
+  {
+    "branchID":7,
+     "location":"Makkah",
+     "branchManager":"Abdullah Mohammad",
+     "numberOfEmployees":7
+  },
+  {
+    "branchID":8,
+     "location":"Jeddah",
+     "branchManager":"Sultan Alharthi",
+     "numberOfEmployees":7
+  },
+  {
+    "branchID":9,
+     "location":"Riyadh",
+     "branchManager":"Abdullah Majed",
+     "numberOfEmployees":9
+  },
+  {
+    "branchID":10,
+     "location":"Jeddah",
+     "branchManager":"Khaleel",
+     "numberOfEmployees":9
+  }
+]
